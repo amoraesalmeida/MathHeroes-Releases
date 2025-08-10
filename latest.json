@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "downloadUrl": "https://github.com/amoraesalmeida/MathHeroes-Releases/releases/download/v1.0.0/MathHeroes-v1.0.0.apk",
+  "changelog": "🎉 Primeira versão beta do Math Heroes!\n\n✅ Sistema de 5 sessões por nível\n✅ Níveis A1-A8 (Adição completa)\n✅ Visual AAA azul-laranja\n✅ Cronômetro individual por problema\n✅ Sistema de domínio matemático progressivo\n\n🎯 Comece sua jornada de domínio matemático!",
+  "releaseDate": "2025-01-10",
+  "mandatory": false,
+  "minSupportedVersion": "1.0.0",
+  "features": [
+    "Sistema de 5 sessões obrigatórias",
+    "8 níveis de adição (A1-A8)",
+    "Cronômetro TPR individual",
+    "Visual moderno e atrativo",
+    "Sistema de XP e progressão",
+    "Tracking detalhado de performance"
+  ]
+}
