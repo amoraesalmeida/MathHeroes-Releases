@@ -1,8 +1,8 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.0",
   "versionCode": 1,
-  "downloadUrl": "https://github.com/amoraesalmeida/MathHeroes-Releases/releases/download/v2.0.1/MathHeroes-v2.0.1.apk",
-  "changelog": "🎉 Nova versão com sistema de updates!\n\n✅ Verificação automática de atualizações\n✅ Download direto do GitHub\n✅ Interface amigável de updates\n\n🚀 Agora você sempre terá a versão mais recente!",
+  "downloadUrl": "https://github.com/amoraesalmeida/MathHeroes-Releases/releases/download/v2.0.0/MathHeroes-v2.0.0.apk",
+  "changelog": "🎉 Math Heroes v2.0.0 com Sistema de Updates!\n\n✅ Sistema de atualizações automáticas\n✅ Verificação no GitHub\n✅ Download direto do APK\n✅ Interface melhorada\n\n🚀 Agora você sempre terá a versão mais recente!",
   "releaseDate": "2025-01-15",
   "mandatory": false,
   "minSupportedVersion": "1.0.0",
@@ -10,7 +10,7 @@
     "Sistema de updates automáticos",
     "Verificação no GitHub",
     "Download direto do APK",
-    "Interface melhorada",
-    "Notificações de atualização"
+    "Interface de notificação melhorada",
+    "Menu de verificação manual"
   ]
 }
