@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "versionCode": 3,
+  "version": "2.2.0+3",  // ← MUDANÇA CRÍTICA: Adicionar +3
+  "versionCode": 4,      // ← MUDANÇA: Aumentar para 4 para forçar update
   "downloadUrl": "https://github.com/amoraesalmeida/MathHeroes-Releases/releases/download/v2.2.0/MathHeroes-v2.2.0.apk",
   "changelog": "🔥 Math Heroes v2.2.0 - Sistema A6+ Flexível!\n\n🎯 NOVA FUNCIONALIDADE PRINCIPAL:\n✅ Sistema A6+ flexível - Escolha suas sessões (3-10)\n✅ A1-A5: 100% em 1 sessão (obrigatório)\n✅ A6-A8: Configure quantas sessões quer praticar\n\n🎮 MELHORIAS:\n✅ Interface adaptativa inteligente\n✅ Botões que mudam baseado na configuração\n✅ Contador dinâmico (1/3, 2/7, etc.)\n✅ Preferências salvas automaticamente\n✅ Lógica de domínio personalizada\n\n⚙️ TÉCNICO:\n✅ Database versão 7 com preferências\n✅ Sistema de sessões flexível completo\n✅ Tela de configuração moderna\n✅ Integração total A6+ flexível\n\n🚀 Agora você tem controle total sobre seu treino!",
   "releaseDate": "2025-01-16", 
