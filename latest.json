@@ -1,16 +1,21 @@
 {
-  "version": "2.0.0",
-  "versionCode": 1,
-  "downloadUrl": "https://github.com/amoraesalmeida/MathHeroes-Releases/releases/download/v2.0.0/MathHeroes-v2.0.0.apk",
-  "changelog": "🎉 Math Heroes v2.0.0 com Sistema de Updates!\n\n✅ Sistema de atualizações automáticas\n✅ Verificação no GitHub\n✅ Download direto do APK\n✅ Interface melhorada\n\n🚀 Agora você sempre terá a versão mais recente!",
-  "releaseDate": "2025-01-15",
+  "version": "2.1.0",
+  "versionCode": 2,
+  "downloadUrl": "https://github.com/amoraesalmeida/MathHeroes-Releases/releases/download/v2.1.0/MathHeroes-v2.1.0.apk",
+  "changelog": "🔥 Math Heroes v2.1.0 - Sistema A6+ Flexível!\n\n🎯 NOVA FUNCIONALIDADE PRINCIPAL:\n✅ Sistema A6+ flexível - Escolha suas sessões (3-10)\n✅ A1-A5: 100% em 1 sessão (obrigatório)\n✅ A6-A8: Configure quantas sessões quer praticar\n\n🎮 MELHORIAS:\n✅ Interface adaptativa inteligente\n✅ Botões que mudam baseado na configuração\n✅ Contador dinâmico (1/3, 2/7, etc.)\n✅ Preferências salvas automaticamente\n✅ Lógica de domínio personalizada\n\n⚙️ TÉCNICO:\n✅ Database versão 7 com preferências\n✅ Sistema de sessões flexível completo\n✅ Tela de configuração moderna\n✅ Integração total A6+ flexível\n\n🚀 Agora você tem controle total sobre seu treino!",
+  "releaseDate": "2025-01-16",
   "mandatory": false,
-  "minSupportedVersion": "1.0.0",
+  "minSupportedVersion": "2.0.0",
   "features": [
-    "Sistema de updates automáticos",
-    "Verificação no GitHub",
-    "Download direto do APK",
-    "Interface de notificação melhorada",
-    "Menu de verificação manual"
+    "Sistema A6+ flexível revolucionário",
+    "Configuração personalizada de sessões (3-10)",
+    "Interface adaptativa inteligente", 
+    "Contadores dinâmicos baseados na escolha",
+    "Preferências salvas automaticamente",
+    "Lógica de domínio personalizada",
+    "Botões que se adaptam à configuração",
+    "Database versão 7 com suporte completo",
+    "Tela de configuração moderna e intuitiva",
+    "Sistema de avaliação flexível"
   ]
 }
